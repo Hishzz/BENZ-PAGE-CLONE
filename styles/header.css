@@ -1,0 +1,75 @@
+
+
+.header1{
+   
+   height: 100px;
+   display: flex;
+   justify-content:left;
+   top: 0px;
+   left: 0px;
+   border-bottom-style:solid;
+   border-bottom-width: 0.54px;
+   border-bottom-color: rgb(55, 55, 55);
+   
+}
+ 
+   
+.logo{
+    width: 64px;
+    
+}
+.benslogo-div{
+    display: flex;
+    align-items: center;
+    margin-left:97px;
+   
+
+
+}
+.info1-header-div{
+    margin-left: 50px;
+    display: flex;
+    align-items: end;
+    white-space: nowrap;
+    margin-bottom: 13px;
+    font-size: 19px;
+    color: rgb(212, 211, 211);
+   
+}
+
+.info2-header-div{
+    margin-left: 930px;
+    display: flex;
+    align-items:center;
+    white-space: nowrap;
+    font-family: Arial;
+    font-size: 13px;
+    color: rgb(212, 211, 211);
+
+    
+}
+.header2{
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    color:black;
+    height: 60px;
+}
+.carlogo{
+    width: 20px;
+    margin-left: 120px;
+
+
+}
+.info-div{
+    color: rgb(194, 194, 194);
+    margin-left: 25px;
+    font-family: Arial;
+    font-size: 17px;
+    cursor: pointer;;
+}
+.info-div:hover{
+    color: white;
+    
+}
+
